@@ -1,0 +1,12 @@
+C:\Users\gabriel.smendes7\source\repos\Doador.API\Doador.Domain\bin\Debug\net8.0\Doador.Domain.deps.json
+C:\Users\gabriel.smendes7\source\repos\Doador.API\Doador.Domain\bin\Debug\net8.0\Doador.Domain.dll
+C:\Users\gabriel.smendes7\source\repos\Doador.API\Doador.Domain\bin\Debug\net8.0\Doador.Domain.pdb
+C:\Users\gabriel.smendes7\source\repos\Doador.API\Doador.Domain\obj\Debug\net8.0\Doador.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.smendes7\source\repos\Doador.API\Doador.Domain\obj\Debug\net8.0\Doador.Domain.AssemblyInfoInputs.cache
+C:\Users\gabriel.smendes7\source\repos\Doador.API\Doador.Domain\obj\Debug\net8.0\Doador.Domain.AssemblyInfo.cs
+C:\Users\gabriel.smendes7\source\repos\Doador.API\Doador.Domain\obj\Debug\net8.0\Doador.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.smendes7\source\repos\Doador.API\Doador.Domain\obj\Debug\net8.0\Doador.Domain.sourcelink.json
+C:\Users\gabriel.smendes7\source\repos\Doador.API\Doador.Domain\obj\Debug\net8.0\Doador.Domain.dll
+C:\Users\gabriel.smendes7\source\repos\Doador.API\Doador.Domain\obj\Debug\net8.0\refint\Doador.Domain.dll
+C:\Users\gabriel.smendes7\source\repos\Doador.API\Doador.Domain\obj\Debug\net8.0\Doador.Domain.pdb
+C:\Users\gabriel.smendes7\source\repos\Doador.API\Doador.Domain\obj\Debug\net8.0\ref\Doador.Domain.dll
