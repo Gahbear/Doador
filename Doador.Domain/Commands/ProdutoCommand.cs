@@ -1,13 +1,14 @@
-﻿namespace Doador.Domain.Commands
+﻿using Doador.Domain.Enums;
+
+namespace Doador.Domain.Commands
 {
     public class ProdutoCommand
     {
         public int ProdutoId { get; set; }
-        public string ProdutoNome { get; set; }
-        public string ProdutoDescricao { get; set; }
-        public string ProdutoCategoria { get; set; }
-        public bool Disponibilidade { get; set; }
-        public string DoadorEmail { get; set; }
-        public int DoadorTelefone { get; set; }
+        public string NomeProduto { get; set; }
+        public string Descricao { get; set; }
+        public ECategoriaProduto ECategoriaProduto { get; set; }
+        public string NomeDoador { get; set; }
+        public bool DisponibilidadeDoacao { get; set; }
     }
 }
