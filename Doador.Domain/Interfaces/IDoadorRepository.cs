@@ -5,6 +5,6 @@ namespace Doador.Domain.Interfaces
     public interface IDoadorRepository
     {
 
-        Task<IEnumerable<DoadorCommand>> GetDoadoresAsync();
+        Task<string> PostAsync(DoadorCommand command);
     }
 }

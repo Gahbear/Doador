@@ -16,7 +16,7 @@ namespace Doador.Repository.Repository
 
         public async Task<string> PostAsync(DoadorCommand command)
         {
-            string queryInsert = @"INSERT INTO Doador(Nome, Cidade, Estado, CEP, Email, Telefone)
+            string queryInsert = @"INSERT INTO Doador(DoadorNome, DoadorCidade, DoadorEstado, DoadorCEP, DoadorEmail, DoadorTelefone)
                                   VALUES(@Nome, @Cidade, @Estado, @CEP, @Email, @Telefone)";
             using (SqlConnection conn = new SqlConnection(conexao))
             {

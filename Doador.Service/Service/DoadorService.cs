@@ -12,7 +12,7 @@ namespace Doador.Service.Service
         }
         public Task<string> PostAsync(DoadorCommand command)
         {
-            throw new NotImplementedException();
+           return _doadorRepository.PostAsync(command);
         }
     }
 }
